@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tarekegn Dejen Mengistu</title>
+    <link rel="stylesheet" href="assets/style.css" />
+</head>
+
+<body>
+
+<nav>
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#awards">Awards</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<section id="about" class="section">
+    <h1>Tarekegn Dejen Mengistu</h1>
+    <p><strong>PhD Researcher – AI-driven Adaptive Water Management</strong></p>
+    <p>Goyang, Korea | Phone: +82-10-4412-8470</p>
+    <p>Email: taredejum6@gmail.com | tarehydro19@gmail.com</p>
+
+    <p>
+        A dedicated PhD researcher developing AI-driven frameworks for hydrological and climate-risk assessment.
+        Skilled in integrating process-based models with machine learning, Bayesian inference, TensorFlow,
+        and explainable AI (SHAP). Experienced in climate modeling, groundwater sustainability analysis,
+        and physics-guided ML for adaptive water management under uncertainty.
+    </p>
+</section>
+
+<section id="education" class="section">
+    <h2>Education</h2>
+    <ul>
+        <li><strong>PhD, Environmental & Water Resources Engineering</strong>, UST, Daejeon, Korea (2021–2026)<br>
+            Dissertation: Physics-Guided Machine Learning Frameworks for Adaptive Water Management under Uncertainty
+        </li>
+        <li><strong>MSc, Hydraulic Engineering</strong>, Jimma University, Ethiopia (2016–2018)<br>
+            Thesis: Regional Flood Frequency Analysis
+        </li>
+        <li><strong>BSc, Hydraulic and Water Resources Engineering</strong>, Jimma University, Ethiopia (2010–2015)<br>
+            Thesis: Design and Analysis of Small-Scale Irrigation Project
+        </li>
+    </ul>
+</section>
+
+<section id="experience" class="section">
+    <h2>Experience</h2>
+    <ul>
+        <li><strong>UST Trainee Research Fellow</strong>, KICT, Goyang, Korea (2021–2026)<br>
+            Developed machine-learning-enhanced hydrologic models, published multiple articles,
+            and presented at international conferences.
+        </li>
+        <li><strong>Lecturer</strong>, Jimma University, Ethiopia (2018–2021)<br>
+            Taught hydrology and water modeling; supervised undergraduate theses; led curriculum enhancements.
+        </li>
+        <li><strong>Assistant Lecturer</strong>, Jimma University, Ethiopia (2015–2018)<br>
+            Delivered undergraduate courses, supervised student work, and coordinated exams.
+        </li>
+    </ul>
+</section>
+
+<section id="publications" class="section">
+    <h2>Publications</h2>
+    <p>Selected peer-reviewed journal articles:</p>
+    <ul>
+        <li>Coupled SWAT–MODFLOW model for assessing watershed responses… <em>J. Hydrology: Regional Studies</em> (2025)</li>
+        <li>Modeling & prediction of climate change impacts… <em>J. Environmental Management</em> (2025)</li>
+        <li>Quantifying regional low flows under data-scarce conditions… <em>Heliyon</em> (2024)</li>
+        <li>Land-use/land-cover dynamics on groundwater recharge… <em>Water</em> (2022)</li>
+        <li>Aquifer recharge zones using geospatial techniques… <em>Water</em> (2022)</li>
+        <li>Regional flood frequency analysis… <em>Water</em> (2022)</li>
+    </ul>
+
+    <p>Under Review / Revision:</p>
+    <ul>
+        <li>Groundwater Vulnerability Assessment Frameworks – <em>WRR</em></li>
+        <li>ML for Water Quality Prediction – <em>PCE</em></li>
+        <li>Bayesian Deep Learning for Aquifer Vulnerability – <em>Scientific Reports</em></li>
+    </ul>
+</section>
+
+<section id="skills" class="section">
+    <h2>Technical Skills</h2>
+    <ul>
+        <li><strong>Programming:</strong> Python (TensorFlow, TFP, SciPy, NumPy, Scikit-learn, GeoPandas)</li>
+        <li><strong>Machine Learning:</strong> Regression, Classification, Ensembles, Bayesian NN, LSTM, CNN, XAI</li>
+        <li><strong>Climate Modeling:</strong> CORDEX, CMIP5/6</li>
+        <li><strong>Hydrological Modeling:</strong> SWAT, SWAT+, SWAT-MODFLOW</li>
+        <li><strong>Software:</strong> QGIS, ArcGIS, Remote Sensing, LaTeX, GitHub</li>
+    </ul>
+</section>
+
+<section id="awards" class="section">
+    <h2>Awards & Honors</h2>
+    <ul>
+        <li>KICT Travel Award – EGU 2025 (Vienna)</li>
+        <li>Best Poster – International SWAT Conference 2024 (Strasbourg)</li>
+        <li>UST Travel Award – 2024 SWAT Conference</li>
+        <li>UST Doctoral Research Scholarship (2021–2026)</li>
+    </ul>
+</section>
+
+<section id="contact" class="section">
+    <h2>Contact</h2>
+    <p><strong>Email:</strong> taredejum6@gmail.com</p>
+    <p><strong>LinkedIn / ResearchGate / ORCID</strong> (add your links later)</p>
+</section>
+
+</body>
+</html>
